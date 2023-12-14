@@ -1,0 +1,25 @@
+﻿@model T4S_MODEL.SignInModel
+
+
+@using (Html.BeginForm("SignIn", "Home", FormMethod.Post))
+{
+    <table>
+
+        <tr>
+            <td>User Name: </td>
+            <td>@Html.TextBoxFor(m => m.userName)</td>
+        </tr>
+
+
+        <tr>
+            <td>Password: </td>
+            <td>@Html.TextBoxFor(m => m.password)</td>
+        </tr>
+
+
+
+        <tr>
+            <td colspan="2"><input type="submit" value="Sign In" /></td>
+        </tr>
+    </table>
+}
