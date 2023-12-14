@@ -143,6 +143,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\Investigate Game Clip.mp4" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -179,8 +180,8 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\SignIn.cshtml" />
     <Content Include="Views\Home\SignUp.cshtml" />
-    <Content Include="Views\Home\SignInResult.cshtml" />
-    <Content Include="Views\Home\SignUpResult.cshtml" />
+    <Content Include="Views\Home\SignInResults.cshtml" />
+    <Content Include="Views\Home\SignUpResults.cshtml" />
     <Content Include="Views\Home\AccountPage.cshtml" />
     <Content Include="Views\Home\LoggedOut.cshtml" />
   </ItemGroup>
