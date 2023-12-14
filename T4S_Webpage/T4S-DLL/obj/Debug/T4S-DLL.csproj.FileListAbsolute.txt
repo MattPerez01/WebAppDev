@@ -1,9 +1,0 @@
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\bin\Debug\T4S-DLL.dll
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\bin\Debug\T4S-DLL.pdb
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\bin\Debug\T4S-MODEL.dll
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\bin\Debug\T4S-MODEL.pdb
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\obj\Debug\T4S-DLL.csproj.AssemblyReference.cache
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\obj\Debug\T4S-DLL.csproj.CoreCompileInputs.cache
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\obj\Debug\T4S-DLL.csproj.CopyComplete
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\obj\Debug\T4S-DLL.dll
-C:\Users\Aes\Desktop\School\Fall 2023\Web App Dev\T4S Webpage\T4S_Webpage\T4S-DLL\obj\Debug\T4S-DLL.pdb
